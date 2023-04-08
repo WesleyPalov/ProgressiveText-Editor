@@ -47,7 +47,8 @@ WHEN I open my application in my editor
 THEN I should see a client server folder structure
 ```
 
-_Below is the screenshot of the client server folder structure. The folder structure have been set up or given in this structure._
+Below is the screenshot of the deployed app
+![alt text](./image/CaptureTWA.PNG)
 
 2.
 
